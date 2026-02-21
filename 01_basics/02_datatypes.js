@@ -9,6 +9,8 @@ let name = "zain"
 let age = 23
 let isLoggedIn = false
 
+console.log(age)
+
 //number => 2 to 56
 // bigint
 // string = ""
